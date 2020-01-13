@@ -1,2 +1,2 @@
 This is a github test repo.
-new line
+new line makes it easy
